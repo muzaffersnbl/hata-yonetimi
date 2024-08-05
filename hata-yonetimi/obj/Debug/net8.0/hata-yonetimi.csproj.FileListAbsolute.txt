@@ -1,0 +1,14 @@
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.exe
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.deps.json
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.runtimeconfig.json
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.pdb
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\refint\hata-yonetimi.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.pdb
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.genruntimeconfig.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\hata-yonetimi\obj\Debug\net8.0\ref\hata-yonetimi.dll
